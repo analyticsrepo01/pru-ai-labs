@@ -1,1 +1,6 @@
 sd_models/
+.env
+*.log
+campaign/
+.gitignore
+
